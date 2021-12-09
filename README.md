@@ -30,7 +30,7 @@ We have `generator-name||metric-name.csv` files from the Cartesian product betwe
     title   = {Bidimensional Leaderboards: Generate and Evaluate Language Hand in Hand},
     author  = {Jungo Kasai and Keisuke Sakaguchi and Ronan Le Bras and Lavinia Dunagan and Jacob Morrison and Alexander R. Fabbri and Yejin Choi and Noah A. Smith},
     year    = {2021},
-    url     = {}, 
+    url     = {https://arxiv.org/abs/2112.04139}, 
 }
 ```
 ### MSCOCO Captioning Evaluations and THumB 1.0 Protocol
