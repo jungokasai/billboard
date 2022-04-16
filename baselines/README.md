@@ -69,10 +69,19 @@ fairseq-train wmt20-en-de_bpe32k_data-bin/ --arch transformer_wmt_en_de --share-
 ```
 ## Citation
 ```
-@misc{kasai2021billboard,
-    title   = {Bidimensional Leaderboards: Generate and Evaluate Language Hand in Hand},
-    author  = {Jungo Kasai and Keisuke Sakaguchi and Ronan Le Bras and Lavinia Dunagan and Jacob Morrison and Alexander R. Fabbri and Yejin Choi and Noah A. Smith},
-    year    = {2021},
-    url     = {https://arxiv.org/abs/2112.04139}, 
+@inproceedings{kasai2022billboard,
+  author    = {Jungo Kasai and
+               Keisuke Sakaguchi and
+               Ronan Le Bras and
+               Lavinia Dunagan and
+               Jacob Morrison and
+               Alexander R. Fabbri and
+               Yejin Choi and
+               Noah A. Smith},
+  title     = {Bidimensional Leaderboards: Generate and Evaluate Language Hand in
+               Hand},
+  year      = {2022},
+  url       = {https://arxiv.org/abs/2112.04139},
+  booktitle={Proc.\ of NAACL},
 }
 ```
